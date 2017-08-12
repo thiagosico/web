@@ -1,10 +1,87 @@
-<!DOCTYPE html>
+ <html>
 <head>
-   <title>
-   <h2>hello world</h2>
-  </title>
+<title>Wiki Locaweb </title>
+<link  href="index.css" rel ="stylesheet" type="text/css" >
 </head>
-<body>
 
+<body>
+	<div class="main-topo">
+			<div class="logo-topo">
+			
+			</div >
+
+			<div class="itens-topo-main">
+				<div class="main-sup">
+				<div class="link-login">
+					<button value="central" name="central" >
+			    </div >
+				</div>
+					<div class="main-inf">
+				<div class="item-topo">
+				ola67
+				</div >
+				<div class="item-topo">
+				ola2
+				</div>
+				<div class="item-topo">
+				ola3
+				</div>
+				<div class="item-topo">
+				ola43
+				</div>
+					</div>
+			</div>
+	</div>
+	
+	
+	
+	<div class="itens-cont-left">
+	
+		<div class="perg-freq-itens">
+			<div class="item-topico-sup">
+			</div>
+			<div class="item-topico-inf">
+			<ul>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			</ul>
+			</div>
+			
+		</div>
+
+		<div class="perg-freq-itens">
+		</div>
+		<div class="perg-freq-itens">
+		</div>
+		<div class="perg-freq-itens">
+		</div>
+		<div class="perg-freq-itens">
+		</div>
+		<div class="perg-freq-itens">
+		</div>
+		<div class="perg-freq-itens">
+		</div>
+	
+	</div>
+	<!-- parte da direita cursos  -->
+	
+	
+	<div class="itens-cont-right">
+		<ul>
+		<li> video </li>
+		<li> video </li>
+		<li> video </li>
+		<li> video </li>
+		</ul>
+	
+	</div>
+
+
+
+<div><div><div><div><div><div><div><div><div><div><div>
+<div><div><div><div><div><div><div><div><div><div><div><div><div><div><div>
 </body>
-</html>
+
+</html> 
